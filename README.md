@@ -1,1 +1,1 @@
-# -TeachT3chReactWorkshop
+# TeachT3chReactWorkshop
